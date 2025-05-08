@@ -9,7 +9,7 @@ demo:
 
 **Escenario**:  
 
-Eres un Operations Manager en Contoso, responsable de administrar la adquisición de proveedores y la ejecución de proyectos. Tu objetivo es analizar las solicitudes de propuestas (RFP) anteriores, extraer criterios de selección clave y desarrollar una nueva RFP para una próxima iniciativa.
+Estás en marketing para una empresa de bebidas, tu objetivo es analizar las tendencias de mercado, crear un análisis de marketing y desarrollar una nueva campaña de redes sociales.
 
 ## Configuración de la demostración
 
@@ -61,7 +61,7 @@ Usa Copilot Chat para evaluar la eficacia de las campañas en redes sociales pro
 
 1. Abre un explorador y ve a [M365copilot.com](https://m365copilot.com/).
 
-1. Asegúrate de que el modo web está seleccionado.
+1. Asegúrate de que el Modo web está seleccionado.
 
     ![Captura de pantalla que muestra la pestaña modo web.](../Prompts/Media/web-mode.png)
 
