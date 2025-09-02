@@ -27,7 +27,7 @@ Estos son los archivos específicos necesarios para esta demostración:
 
 1. Abre un explorador y ve a [M365copilot.com](https://m365copilot.com/).
 
-1. Asegúrate de que el modo web está seleccionado.
+1. Asegúrate de que el Modo web está seleccionado.
 
     ![Captura de pantalla que muestra la pestaña modo web.](../Prompts/Media/web-mode.png)
 
@@ -64,7 +64,6 @@ Estos son los archivos específicos necesarios para esta demostración:
 1. Selecciona el hipervínculo que proporciona Copilot para el nuevo documento de Word para abrirlo.
 
 1. Una vez abierto, selecciona **Habilitar edición** y, a continuación, activa "Autoguardado". Selecciona la cuenta de OneDrive cuando se te solicite.
-
 
 ### Copilot en Word
 
