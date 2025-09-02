@@ -174,3 +174,5 @@ Usa Copilot en Word para resumir la información financiera en un correo electr�
     - Hacer que sea menos formal
 
 1. Una vez finalizado, puedes seleccionar **Mantener**
+
+[Volver al índice](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
