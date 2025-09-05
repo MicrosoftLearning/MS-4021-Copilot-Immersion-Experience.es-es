@@ -57,13 +57,11 @@ Use el **Agente Investigador** para explorar cómo Copilot o los agentes pueden 
 - Pruebe un mensaje de ejemplo como este:  
 
    ```text
-   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
+   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
    ```  
 
-    > **SUGERENCIA:** Céntrese en casos de uso prácticos y cotidianos, como mostrar rápidamente un documento o extraer actualizaciones de varios orígenes.
-  
-    > **NOTA:** Investigador puede tardar entre 5 y 10 minutos en completarse, en función de la solicitud. Sus respuestas son muy detalladas, por lo que mientras funciona, intente ejecutar el mismo mensaje en Copilot Chat. La comparación de las dos salidas es una excelente manera de ver cómo aborda la tarea cada herramienta.
-    
+    > **SUGERENCIA:** Céntrese en casos de uso prácticos y cotidianos, como mostrar rápidamente un documento o extraer actualizaciones de varios orígenes.  
+
 ### Tarea 3: Creación y prueba del agente  
 
 Ahora, cree un agente de recuperación simple en **Copilot Studio** para abordar el desafío.  

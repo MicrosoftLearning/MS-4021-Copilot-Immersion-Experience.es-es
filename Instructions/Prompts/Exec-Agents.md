@@ -80,8 +80,6 @@ Use el **Agente Investigador** para ver cómo podrían ayudar Copilot y los agen
 
     > **SUGERENCIA:** Busque oportunidades en las que un agente podría facilitar la búsqueda, reutilización o uso compartido de los conocimientos.
 
-    > **NOTA:** Investigador puede tardar entre 5 y 10 minutos en completarse, en función de la solicitud. Sus respuestas son muy detalladas, por lo que mientras funciona, intente ejecutar el mismo mensaje en Copilot Chat. La comparación de las dos salidas es una excelente manera de ver cómo aborda la tarea cada herramienta.
-
 ### Tarea 4: Conceptualizar el agente
 
 Ahora, tome las conclusiones y cree un agente ficticio sencillo en **Copilot Studio**. Mantenga la atención en la recuperación: el agente debe ayudar a exponer, organizar o resumir información.
