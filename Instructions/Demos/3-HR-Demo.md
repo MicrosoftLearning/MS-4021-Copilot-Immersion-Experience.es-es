@@ -89,7 +89,7 @@ Por último, usa Copilot en Outlook para redactar un correo electrónico al equi
 1. En la ventana de solicitudes **"¿Qué quieres que diga este correo electrónico?"**, escribe lo siguiente:
 
     ```text
-    Please draft an email to the hiring team to share that Nester Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
+    Please draft an email to the hiring team to share that Nestor Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
     ```
 
 [Volver al índice](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
