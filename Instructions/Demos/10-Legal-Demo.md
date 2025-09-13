@@ -19,9 +19,9 @@ No se requieren documentos de ejemplo para esta demostración.
 
 ### Copilot Chat
 
-Empecemos por investigar la Ley de IA y su posible impacto en la herramienta de contratación mediante IA de Contoso.
+Empecemos por investigar la Ley de Inteligencia Artificial de la UE y su posible impacto en la herramienta de contratación de inteligencia artificial de Contoso.
 
-1. Abre un explorador y ve a [M365copilot.com](https://m365copilot.com/).
+1. Abra un explorador y vaya a [M365Copilot.com](https://m365Copilot.com/).
 
 1. Asegúrate de que el **Modo web** está seleccionado.
 
@@ -49,7 +49,7 @@ Empecemos por investigar la Ley de IA y su posible impacto en la herramienta de 
     Are there any exemptions in the AI Act that could apply to Contoso’s system?
     ```
 
-1. Ahora pide a Copilot que resuma toda la información que tiene de momento:
+1. Ahora pida a Copilot que resuma toda la información que tiene de momento:
 
     ```text
     Summarize all the information we've discussed into a structured list, ensuring no key details are missed. Then, export the summary to a Word document
@@ -85,7 +85,7 @@ Ahora, redactaremos un resumen ejecutivo que describe los riesgos legales y las 
 
 1. Otras mejoras opcionales:
 
-    - Pide a Copilot que redacte de nuevo las secciones para obtener un tono más profesional.
+    - Pida a Copilot que redacte de nuevo las secciones para obtener un tono más profesional.
     - Solicita una versión más corta y concisa si el resumen es demasiado largo.
     - Expande con secciones adicionales.
 
@@ -101,7 +101,7 @@ Por último, redactaremos un correo electrónico a la dirección de Contoso que 
 
 1. Selecciona **Copilot** en la cinta de opciones. Selecciona **Borrador con Copilot** en el menú desplegable.
 
-1. En la ventana de indicaciones **"¿Qué quieres que diga este correo electrónico?"**, escribe:
+1. En la ventana de solicitudes **"¿Qué quieres que diga este correo electrónico?"**, escribe:
 
    ```text
     Draft an email to Contoso’s executive leadership summarizing our legal assessment of the AI Resume Screening Software under the EU AI Act. Use the following executive summary as a reference.

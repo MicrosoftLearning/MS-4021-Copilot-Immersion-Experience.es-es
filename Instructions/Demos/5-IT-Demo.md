@@ -29,7 +29,7 @@ Empecemos pidiendo a Copilot que cree un plan de implementación del proyecto.
 
 1. Abre un explorador y ve a [M365copilot.com](https://m365copilot.com/).
 
-1. Asegúrate de que el modo web está seleccionado.
+1. Asegúrate de que el Modo web está seleccionado.
 
     ![Captura de pantalla que muestra la pestaña modo web.](../Prompts/Media/web-mode.png)
 
@@ -57,7 +57,7 @@ Empecemos pidiendo a Copilot que cree un plan de implementación del proyecto.
     Please export the project plan to a Word document.
     ```
 
-1. Guarda el documento de Word generado como **Project_Implementation_Plan.docx**. Copia la dirección URL compartida del documento (habilita Autoguardado y selecciona la cuenta de OneDrive si se te solicita).
+1. Seleccione el vínculo que Copilot proporciona al archivo recién creado para descargarlo en la carpeta Descargas. Mueva el archivo a la carpeta de OneDrive y ábralo. Copia la dirección URL compartida del documento (habilita Autoguardado y selecciona la cuenta de OneDrive si se te solicita).
 
     ![Comparte el vínculo.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
@@ -67,7 +67,7 @@ Ahora pediremos a Copilot que amplíe estas estrategias y redacte propuestas sob
 
 1. Abre Word (ya sea en el explorador o en la aplicación de escritorio).
 
-1. En el cuadro de indicaciones **Describe lo que deseas escribir**, escribe lo siguiente:
+1. En el cuadro de solicitud **¿Qué quiere que Copilot escriba?** escriba lo siguiente:
 
     ```text
     Using the Contoso [/CipherGuard Product Specification.docx] and the 'Project Implementation Plan' template provided in [paste in link to Project_Implementation_Plan.docx], draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.

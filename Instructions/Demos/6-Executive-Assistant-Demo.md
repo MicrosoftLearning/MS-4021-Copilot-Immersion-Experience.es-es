@@ -35,7 +35,7 @@ Comenzaremos revisando la transcripción de la llamada sobre resultados más rec
 
     ![Icono Copilot en Word](../Demos/Media/Copilot-in-word-ribbon.png)
 
-1. El panel Copilot se deberá abrir. Escribe la siguiente indicación donde dice **Preguntarme algo sobre este documento**:
+1. El panel Copilot se deberá abrir. Escriba la siguiente indicación donde dice **+ ¿Qué quiere que Copilot escriba?**:
 
     ```text
     Summarize the key points from the Microsoft FY24 Second Quarter Earnings Conference Call.
@@ -67,7 +67,6 @@ Comenzaremos revisando la transcripción de la llamada sobre resultados más rec
 1. Una vez que Copilot complete el análisis, selecciona el icono **Copiar** para guardar los resultados para el paso siguiente.
 
     ![Copia los resultados.](../Demos/Media/Copilot-in-word-copy-results.png)
-
 
 ### Copilot Chat
 
