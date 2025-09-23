@@ -21,7 +21,7 @@ Para completar estas demostraciones, deberá descargar el [Paquete de contenido:
 Para acceder a estos agentes:  
 
 - Abra la **aplicación Copilot** desde [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Use la **navegación de la izquierda** para seleccionar **Investigador** o **Analista**.  
+- Seleccione **Investigador** o **Analista** en el panel de navegación.  
 
 > **Nota:** Deberá apuntar Investigador y Analista a archivos internos (SharePoint u OneDrive) para obtener información fundamentada.
 
@@ -42,7 +42,7 @@ Para acceder a estos agentes:
 
 > **IMPORTANTE:** Los pasos 1–4 deben completarse al principio del entrenamiento (como se indica en la diapositiva 5) a fin de que Investigador tenga tiempo suficiente para completar el primer mensaje.
 
-1. Abra **Investigador** desde el panel de navegación la izquierda en la aplicación Copilot.  
+1. Abra **Investigador** desde el panel de navegación.  
 
     ![Recorte de pantalla en el que se muestra la selección de Investigador en el menú M365 Copilot.](../Prompts/Media/researcher.png)  
 
@@ -60,7 +60,7 @@ Para acceder a estos agentes:
    - **/SprintCycle Charger Product Launch.docx**  
    - *(Opcional)* **/Contoso - PedalPerks GTM Plan.docx**  
 
-1. Haga clic en **Enviar**.  
+1. Seleccione **Submit** (Enviar).  
 
 Investigador hará lo siguiente:  
 
@@ -72,7 +72,9 @@ Investigador hará lo siguiente:
 
 ### Analista: Segmentación de clientes y modelado financiero
 
-1. Abra **Analista** desde el panel de navegación la izquierda en la aplicación Copilot.  
+**Nota:** Esta demostración no se realiza para la versión ejecutiva del contenido, en su lugar, pase a la demostración de **Copilot Studio**.
+
+1. Abra **Analista** desde el panel de navegación.
 
     ![Recorte de pantalla en el que se muestra la selección de Analista en el menú M365 Copilot.](../Prompts/Media/analyst.png)  
 

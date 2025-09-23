@@ -1,15 +1,15 @@
 ---
 demo:
-  title: Creación de un agente con Copilot Studio
+  title: "Creación de un agente con Copilot\_Studio lite"
 ---
 
 [Volver al índice](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
-# Creación y publicación de un agente mediante Copilot Chat
+# Creación y publicación de un agente mediante Copilot Chat lite
 
-En esta demostración se explica cómo crear un asistente virtual mediante Copilot Studio a través de Copilot Chat y publicarlo en Microsoft 365 Copilot.
+En esta demostración se explica cómo crear un asistente virtual mediante Copilot Studio lite a través de Copilot Chat y publicarlo en Microsoft 365 Copilot.
 
 ## Configuración de la demostración
 
@@ -25,17 +25,17 @@ Para completar estas demostraciones, deberá descargar los siguientes archivos:
 
 ## Puntos de conversación
 
-Copilot Studio permite crear copilotos personalizados, adaptados a proyectos, departamentos o bases de conocimiento específicos. Podemos darles una personalidad, establecer sus límites y proporcionarles documentos específicos para garantizar respuestas fundamentadas de alta calidad.
+Copilot Studio lite permite crear copilotos personalizados, adaptados a proyectos, departamentos o bases de conocimiento específicos. Podemos darles una personalidad, establecer sus límites y proporcionarles documentos específicos para garantizar respuestas fundamentadas de alta calidad.
 
 En esta demostración, se creará un asistente virtual para el proyecto de entrega de drones ReleCloud. El asistente sabrá todo lo que se ha cargado y ayudará a responder a preguntas del equipo, lo que ahorra tiempo y mejora la productividad.
 
 ## Pasos de la demostración
 
-### Paso 1: Navegación a Copilot Studio
+### Paso 1: Navegación a Copilot Studio lite
 
-1. Vaya a [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) y seleccione **Crear agente** en el raíl derecho.
+1. Vaya a [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) y seleccione **Crear agente** en el panel de navegación.
 
-    ![Recorte de pantalla en el que se muestra el enlace Crear un agente.](../Prompts/media/create-agent.png)
+    ![Recorte de pantalla en el que se muestra el enlace Crear un agente.](../Prompts/Media/create-agent.png)
 
 1. Inicie sesión con sus credenciales.
 
@@ -73,18 +73,18 @@ En esta demostración, se creará un asistente virtual para el proyecto de entre
     Friendly and professional
     ```
 
-> **IMPORTANTE:**  Es posible que no se le pidan todas estas opciones, en función del entorno. Si no se le solicita, puede agregar esta información mediante la pestaña **Configurar** de Copilot Studio.
+> **IMPORTANTE:**  Es posible que no se le pidan todas estas opciones, en función del entorno. Si no se le solicita, puede agregar esta información mediante la pestaña **Configurar** de Copilot Studio lite.
 
 ### Paso 3: Configuración del agente
 
-1. Haga clic en **Configurar** para abrir el editor del agente.
+1. Seleccione **Configurar** para abrir el editor del agente.
 1. Revise y, opcionalmente, actualice la sección **Instrucciones**:
 
     ```text
     Your name is Drone Delivery Project Manager Assistant. You serve as a virtual project manager for the ReleCloud drone delivery project, with comprehensive knowledge from shared documents. Be clear and concise, avoiding long answers. If the answer is unknown, refer to the drone delivery project manager.
     ```
 
-1. Desplácese hacia abajo hasta la sección **Conocimientos** y haga clic en la burbuja de texto **Buscar por nombre o escribir una URL**. Seleccione **Archivos** y agregue los siguientes documentos a la base de conocimiento del agente:
+1. Desplácese hacia abajo hasta la sección **Conocimientos** y seleccione la burbuja de texto **Buscar por nombre o escribir una URL**. Seleccione **Archivos** y agregue los siguientes documentos a la base de conocimiento del agente:
 
     - **Delivery Drone Press Release.docx**
     - **Delivery Drone Troubleshooting.docx**
@@ -109,7 +109,7 @@ En el panel de pruebas de la derecha, intente formular algunas de las siguientes
 
 ### Paso 5: Publicación y uso compartido
 
-1. Haga clic en **Crear** para publicar el agente.
+1. Seleccione **Crear** para publicar el agente.
 1. Seleccione **Cambiar la configuración de uso compartido** y elija **Cualquiera de la organización**.
 1. Copie el vínculo para compartir y péguelo en un chat de Teams para facilitar el acceso.
 
