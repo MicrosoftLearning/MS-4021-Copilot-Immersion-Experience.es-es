@@ -53,13 +53,13 @@ Con **Copilot Chat**, tome el desafío que ha identificado en la Tarea 1 y div�
 - ¿Dónde se bloquea o se pierde la información?  
 - ¿A quién afecta más?  
 
-    **Mensaje de ejemplo (Copilot Chat: Modo de trabajo):**
+**Pruebe un mensaje de ejemplo como este:**
 
-    ```text
-    Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
-    ```
+```text
+Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
+ ```
 
-    > **SUGERENCIA:** Piense en dónde la recuperación de conocimientos le ahorraría tiempo o ayudaría al equipo a tomar decisiones más rápidas.
+> **SUGERENCIA:** Piense en dónde la recuperación de conocimientos le ahorraría tiempo o ayudaría al equipo a tomar decisiones más rápidas.
 
 ### Tarea 3: Exploración de ideas de soluciones de IA con Investigador
 
@@ -68,7 +68,7 @@ Use el **Agente Investigador** para ver cómo podrían ayudar Copilot y los agen
 **Pasos**:
 
 - Abra una nueva pestaña del explorador y vaya a [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
-- En el menú Copilot Chat expanda **Agentes** y seleccione **Investigador**  
+- En el menú de Copilot Chat expanda **Agentes** (si es necesario) y seleccione **Investigador**.
 
     ![Recorte de pantalla en el que se muestra la selección de Investigador en el menú M365 Copilot.](../Prompts/Media/researcher.png)  
 
@@ -80,22 +80,24 @@ Use el **Agente Investigador** para ver cómo podrían ayudar Copilot y los agen
 
     > **SUGERENCIA:** Busque oportunidades en las que un agente podría facilitar la búsqueda, reutilización o uso compartido de los conocimientos.
 
-### Tarea 4: Conceptualizar el agente
+    > **NOTA:** Investigador puede tardar entre 5 y 10 minutos (o más) en completarse, en función de la solicitud. Sus respuestas son muy detalladas, por lo que mientras funciona, intente ejecutar el mismo mensaje en Copilot Chat. La comparación de las dos salidas es una excelente manera de ver cómo aborda la tarea cada herramienta.
 
-Ahora, tome las conclusiones y cree un agente ficticio sencillo en **Copilot Studio**. Mantenga la atención en la recuperación: el agente debe ayudar a exponer, organizar o resumir información.
+### Tarea 4: Creación del agente
+
+Ahora, tome las conclusiones y cree un agente ficticio sencillo en **Copilot Studio lite**. Mantenga la atención en la recuperación: el agente debe ayudar a exponer, organizar o resumir información.
 
 **Pasos**:
 
-- **Inicio en Copilot Studio**
+- **Inicio en Copilot Studio lite**
 
     1. Abra el explorador y vaya a [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
-    1. Seleccione **Crear agente** en el raíl de la derecha para iniciar **Copilot Studio**.
+    1. Seleccione **Crear agente** en el panel de navegación para iniciar **Copilot Studio**.
 
         ![Recorte de pantalla en el que se muestra el enlace Crear un agente.](../Prompts/Media/create-agent.png)
 
 - **Definir el agente (pestaña Describir o Configurar)**
 
-    1. Elija la pestaña **Describir** y use este mensaje de ejemplo (o escriba uno propio):
+    1. Elija la pestaña **Describir** si está disponible y use este mensaje de ejemplo (o escriba uno propio):
 
         ```text
         You’re a virtual assistant for our [project/team name]. Your role is to help with [key tasks]. Be concise, stay on-brand, and reference our shared resources when possible.
@@ -105,7 +107,7 @@ Ahora, tome las conclusiones y cree un agente ficticio sencillo en **Copilot St
 
         > **NOTA:** Puede empezar desde cero o basar el agente en una plantilla, que rellena previamente valores e instrucciones que puede personalizar más adelante.
 
-    1. Si **Describir** no está disponible, cambie a la pestaña **Configurar** y escriba los mismos detalles manualmente: nombre, descripción e instrucciones del agente.
+    1. Ha realizado el paso anterior si la **pestaña Describir** estaba disponible. Si no está disponible, cambie a la pestaña **Configurar** y escriba los mismos detalles manualmente: nombre, descripción e instrucciones del agente.
 
         ![Recorte de pantalla en el que se muestra el agente Configurar.](../Prompts/Media/name-describe-agent.png)
 
@@ -125,7 +127,7 @@ Ahora, tome las conclusiones y cree un agente ficticio sencillo en **Copilot St
 
 - **Probar y Crear**
 
-    1. Use la característica **Probar** (disponible en el panel derecho en todo el proceso de creación del agente) para probar el agente de borrador y refinar los problemas.
+    1. Use la característica **Probar** (disponible en el panel derecho en todo el proceso de creación del agente) para probar la versión de borrador del agente y refinar los problemas.
     2. Cuando le convenzan los resultados, seleccione **Crear** para publicar el agente.
     3. Comparta el agente con otros usuarios o ábralo para su uso inmediato.  
 
