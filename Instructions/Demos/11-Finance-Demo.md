@@ -25,9 +25,11 @@ Usa Copilot en Excel para analizar los datos de ventas, identificar las principa
 
 1. Iniciar Excel y abrir el archivo  
 
-1. Abre **Finance_Sales_Analysis.xlsx** en Excel (ya sea en el explorador o en la aplicación de escritorio).  
+1. Abra **EV_Charger_Sales_Analysis_v1.xlsx** en Excel (ya sea en el explorador o en la aplicación de escritorio).  
 
 1. Ve a la pestaña **"Sales by Product"**.  
+
+1. Seleccione **Copilot** en la cinta de Excel y, a continuación, seleccione **Aptitudes de aplicación** para abrir el panel de Copilot.
 
 1. Usa Copilot para ordenar la tabla escribiendo la siguiente indicación:  
 
@@ -117,7 +119,7 @@ Usa Copilot Chat para comparar el rendimiento financiero con las pruebas compara
 
 1. Abre un explorador y ve a [M365copilot.com](https://m365copilot.com/).
 
-1. Asegúrate de que el modo web está seleccionado.
+1. Asegúrate de que el Modo web está seleccionado.
 
     ![Captura de pantalla que muestra la pestaña modo web.](../Prompts/Media/web-mode.png)
 

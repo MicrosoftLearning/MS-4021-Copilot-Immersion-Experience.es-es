@@ -29,6 +29,8 @@ Estos son los archivos específicos necesarios para esta demostración:
 
 1. **Ve a la pestaña "Sales by Product"** en el archivo de Excel.
 
+1. Seleccione **Copilot** en la cinta de Excel y, a continuación, seleccione **Aptitudes de aplicación** para abrir el panel de Copilot.
+
 1. Usa Copilot para calcular los ingresos mensuales:  
 
    Comencemos por averiguar qué categoría de tu negocio está impulsando la mayor parte de los ingresos. Esta hoja contiene tres años de datos de ventas, con miles de filas que muestran las ventas por producto por mes. Aunque es una tarea rutinaria, este volumen de datos puede ser complejo. Puedes pedir a Copilot que calcule rápidamente los ingresos mensuales por producto.
