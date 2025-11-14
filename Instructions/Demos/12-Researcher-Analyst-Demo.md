@@ -7,21 +7,21 @@ demo:
 
 # Demostración de Investigador y Analista
 
-En esta demostración se resalta cómo usar **Investigador** y **Analista**, dos agentes expertos integrados en la aplicación Copilot.  
+En esta demostración se resalta cómo usar**Investigador** y**Analista**, dos agentes expertos integrados en la aplicación Copilot.  
 
 - **Investigador** le ayuda a abordar tareas de investigación en varios pasos, mediante la combinación de datos web con los archivos y conocimientos de la empresa.  
 - **Analista** piensa como un científico de datos cualificado, capaz de realizar análisis avanzados de datos y ejecución de Python, incluso si no sabe cómo programar.  
 
 ## Configuración de la demostración
 
-Para completar estas demostraciones, deberá descargar el [Paquete de contenido: Demostración de Investigador y Analista](https://microsoft.sharepoint.com/:u:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/MS-4021%20Copilot%20Immersion%20Experience/Demos/Agent%20Demo%20Sample%20Docs/Researcher%20and%20Analyst%20Demo%20-%20Content%20Pack.zip?csf=1&web=1&e=384sFW), que contiene todos los archivos y recursos necesarios.  
+Para completar estas demostraciones, deberá descargar el[Paquete de contenido: Demostración de Investigador y Analista](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Researcher_and_Analyst_Demo_Content_Pack.zip), que contiene todos los archivos y recursos necesarios.  
 
-> **SUGERENCIA:** Antes de entregar la demostración, puede crear un sitio de SharePoint en el entorno de demostración a fin de almacenar todos los archivos y facilitar el acceso. Como alternativa, puede almacenar los archivos localmente y hacerles referencia directamente en los mensajes mediante **/**.  
+> **SUGERENCIA:** Antes de entregar la demostración, puede crear un sitio de SharePoint en el entorno de demostración a fin de almacenar todos los archivos y facilitar el acceso. Como alternativa, puede almacenar los archivos localmente y hacerles referencia directamente en los mensajes mediante**/**.  
 
 Para acceder a estos agentes:  
 
-- Abra la **aplicación Copilot** desde [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Seleccione **Investigador** o **Analista** en el panel de navegación.  
+- Abra la**aplicación Copilot** desde[m365.cloud.microsoft](https://m365.cloud.microsoft).  
+- Seleccione**Investigador** o**Analista** en el panel de navegación.  
 
 > **Nota:** Deberá apuntar Investigador y Analista a archivos internos (SharePoint u OneDrive) para obtener información fundamentada.
 
@@ -42,7 +42,7 @@ Para acceder a estos agentes:
 
 > **IMPORTANTE:** Los pasos 1–4 deben completarse al principio del entrenamiento (como se indica en la diapositiva 5) a fin de que Investigador tenga tiempo suficiente para completar el primer mensaje.
 
-1. Abra **Investigador** desde el panel de navegación.  
+1. Abra**Investigador** desde el panel de navegación.  
 
     ![Recorte de pantalla en el que se muestra la selección de Investigador en el menú M365 Copilot.](../Prompts/Media/researcher.png)  
 
@@ -55,12 +55,12 @@ Para acceder a estos agentes:
     Include insights from competitors and our past GTM campaigns.
     ```
 
-1. Adjunte archivos de referencia mediante `/` (debe apuntar a SharePoint u OneDrive):  
+1. Adjunte archivos de referencia mediante`/` (debe apuntar a SharePoint u OneDrive):  
 
    - **/SprintCycle Charger Product Launch.docx**  
-   - *(Opcional)* **/Contoso - PedalPerks GTM Plan.docx**  
+   - *(Opcional)***/Contoso - PedalPerks GTM Plan.docx**  
 
-1. Seleccione **Submit** (Enviar).  
+1. Seleccione**Submit** (Enviar).  
 
 Investigador hará lo siguiente:  
 
@@ -72,9 +72,9 @@ Investigador hará lo siguiente:
 
 ### Analista: Segmentación de clientes y modelado financiero
 
-**Nota:** Esta demostración no se realiza para la versión ejecutiva del contenido, en su lugar, pase a la demostración de **Copilot Studio**.
+**Nota:** Esta demostración no se realiza para la versión ejecutiva del contenido, en su lugar, pase a la demostración de**Copilot Studio**.
 
-1. Abra **Analista** desde el panel de navegación.
+1. Abra**Analista** desde el panel de navegación.
 
     ![Recorte de pantalla en el que se muestra la selección de Analista en el menú M365 Copilot.](../Prompts/Media/analyst.png)  
 
@@ -85,13 +85,13 @@ Investigador hará lo siguiente:
     include a graph to show how this will maximize our market opportunity.
     ```
 
-1. Adjunte el archivo mediante **+**:  
+1. Adjunte el archivo mediante**+**:  
 
    - **BoulderEV ebike Internal Market Forecast.xlsx**  
 
     ![Recorte de pantalla en el que se muestran los archivos adjuntos en Analista.](../Prompts/Media/Analyst-Attach-Files.png)  
 
-1. Haga clic en **Enviar**.  
+1. Haga clic en**Enviar**.  
 
 Analista hará lo siguiente:  
 
@@ -101,7 +101,7 @@ Analista hará lo siguiente:
 
 ### Escenarios de Analista adicionales
 
-Puede ejecutar estos mensajes adicionales de otras tareas. En cada uno se sigue el mismo patrón: **Mensaje → Adjuntar archivo → Enviar → Revisar los resultados.**
+Puede ejecutar estos mensajes adicionales de otras tareas. En cada uno se sigue el mismo patrón:**Mensaje → Adjuntar archivo → Enviar → Revisar los resultados.**
 
 - **Proyección financiera**  
 
@@ -109,7 +109,7 @@ Puede ejecutar estos mensajes adicionales de otras tareas. En cada uno se sigue 
     Build a 5-year financial projection from this data along with a graph to view revenue growth over time.
     ```  
 
-    Archivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Archivo:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Rendimiento de ventas**  
 
@@ -118,7 +118,7 @@ Puede ejecutar estos mensajes adicionales de otras tareas. En cada uno se sigue 
     along with a visualization of the best-selling products.
     ```  
 
-    Archivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Archivo:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Rendimiento de la campaña**  
 
@@ -127,13 +127,13 @@ Puede ejecutar estos mensajes adicionales de otras tareas. En cada uno se sigue 
     and help me decide where to re-target our next campaign.
     ```  
 
-    Archivo: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Archivo:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 ## Conclusión principal
 
 - **Investigador**: acelera la estrategia y la planificación con investigación de alta calidad.  
 - **Analista**: ofrece información controlada por datos con análisis avanzado y visualizaciones.  
 
-De manera conjunta, Investigador y Analista acortan el camino de **la pregunta a la conclusión**, y convierten semanas de esfuerzo en minutos.  
+De manera conjunta, Investigador y Analista acortan el camino de**la pregunta a la conclusión**, y convierten semanas de esfuerzo en minutos.  
 
 [Volver al índice](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
